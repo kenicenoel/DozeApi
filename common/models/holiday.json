@@ -1,0 +1,48 @@
+{
+  "name": "holiday",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "string",
+      "required": true
+    },
+    "country": {
+      "type": "string",
+      "required": true
+    },
+    "year": {
+      "type": "number",
+      "required": true
+    },
+    "month": {
+      "type": "number",
+      "required": true
+    },
+    "day": {
+      "type": "number",
+      "required": true
+    },
+    "fullDate": {
+      "type": "string",
+      "required": true
+    },
+    "reason": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

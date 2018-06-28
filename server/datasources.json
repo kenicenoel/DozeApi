@@ -1,0 +1,14 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "firestore": {
+    "name": "firestore",
+    "connector": "loopback-connector-firestore",
+    "type": "service_account",
+    "projectId": "dozeholidayapi",
+    "clientEmail":  "dozeholidayapi@appspot.gserviceaccount.com",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDOnguss3TK2kn+\nWFll7yUZwTzDMRpEoWZfkjgMeQxxQR8JaokL2Wyc0s2IDXTwlaM4rEH5vEJ+nIdw\nNVmCVQ+Ng//KWrtAKddEqWEEViOqcU8JAHOmjQuOwx+CqqN45MVF/00u36ugU0Uf\nbqi1115dCXnnVSvApq0b2GmMtxLfH4lo06bzN7O8flhrPFlephhZ2Pebj3jEEDFu\np1V1ZfIoRSwh4Ss0dJnQ97u17ees6FZ/E//C5Wqbqeur1DvITQ8zYQi11etuUHlq\nLAolRF9+fGvU+tvPAJjvJ1ka8iGXqzMweDxNmTqN40sHg3R4ZvrMqsNpDPvxye5h\nM+Dr6TyZAgMBAAECggEAK8LElTzjAS3PmyuqL5FBid1oGa1WM2/9x0MoVNf0fy48\nPRnP0e8odmSdfHHhMS14RwIQ7Sxm5vsPIoBiJ10NsLri28BwxWu3OMcpEaqO3kQm\nabErTXy1FHUWQO4UNoA5mhQzDDj6WDgavUgKOo1VYp4lsA3VePW0V1/0JwYFXLUn\nRNZp0ahtGxfHmVshsEXgaTfXHgSnU4yq8+dZ1p6mnnUmTBiMnIFxdxmOvhsGWNX8\neax4gmMOgCcZT/ogLyIRPfKRL7eLznFq8xHW1shhnwgAf3nOE055TdLL9FBPYIhK\n1K4OXT1TYlg0KQvgxYYp18oD6ABP2PlU/Zyic0y4iQKBgQDtLhmHXBlXwe1d7EE1\nyLlBEBM3WAsxHHpX454pkZTMxgOA5vv0HkuBCG+f/fXy7YTxxu+qrON9yDv0Yyjl\nTqwpbayJX0KiYR1StnffCVChlr3nHBhQkZYtQ0pv+xFdzmteRwCSXNiX+hOpUR3K\nRUL5yZxUbY/DVgFZK53vPaHXBQKBgQDfAx4cKJfzNlCi1VF9LMnxcrFyuzxAyj/U\nuAprzh5rGymYiunsb9uUsVklTllYjiOQsatcRa6Lta3OudshVe1bG3XAWq8Ry842\nv2tIZQdsI6LTViTdT1BZY4I2HQYNpQPBdHm4LE+kEXGxBAOuB01wXP85OsN28Onr\nYsv42zsbhQKBgHNiqQLEGIQsERlPVY4f35g6hM6444D59L8LOifI7lYMwymTteFW\nV68ndn6kY2HSkYm6GWC0CVxo7FoBX6Tm+DSTaYvPLzCmBEj4AisccgCawDpN3bpc\niW3tvanqv9EeGffcnPeXebu96pDFqLN9rI6uuYINZxJFphRGdugr2K8tAoGAdszS\nXW3ChG2KxzOcFXKmoVjX7qaPknQrTMY9xvAmhCgUII7fznRIJQ3Uz2rNbb9Kcuoy\nvxTfxs0hqd6YPUnpB3+5Wp70ZCaN09xk6kvniFPziWF6geqegv/ffbQ4ZUxik8vY\ni6QPSPeB+SqKS0rYleL0kygauGHeOuaGgitHcYECgYAHoZdyiLJlGMCtIoeYwg2k\nMpXz55yhSCFjXR0mDb3zMB9oVQzw73XEaac3NEkf5x3GpRmAdZXWouxhjLqWpby0\n/uqDPynyFJKdc+8e2W6BoMqn43e+lOgmfvFYAB0iPEXtksQSDGeFL/C+5qVkMNE7\nxa3pZ1aBQTwfEChIsYE3rQ==\n-----END PRIVATE KEY-----\n"
+  }
+}
